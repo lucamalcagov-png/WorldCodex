@@ -1,0 +1,11 @@
+<resources>
+ <color name="ink">#14131A</color>
+ <color name="panel">#211E2B</color>
+ <color name="panel2">#2A2636</color>
+ <color name="gold">#D8B56A</color>
+ <color name="gold_soft">#A98A51</color>
+ <color name="mist">#EEE9DD</color>
+ <color name="muted">#AAA3B7</color>
+ <color name="line">#3B3549</color>
+ <color name="accent">#8F78C7</color>
+</resources>
